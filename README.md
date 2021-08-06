@@ -4,7 +4,7 @@ What have we learned today?
 
 - String formatting using System.out.printf(), using String.format(), using MessageFormat.format()
 - Opertors: + - * / %
-- Shoethand operators += -= *= /= %/
+- Shorthand operators += -= *= /= %/
 - ++int int++ operators and the difference
 - Casting widening casting (implicit) and narrowing (explicit)
 - if statement, else if, else
